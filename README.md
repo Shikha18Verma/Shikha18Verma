@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shikha18Verma
+- 👋 Hi, I’m Shikha Verma. CSE Student (3rd Year) . 
 - 👀 I’m interested in creating web development projects and solving DSA problems. 
 - 🌱 I’m currently learning JScript, Android Development.
 - 💞️ I’m looking to collaborate on projects related to website development and other creative projects.
